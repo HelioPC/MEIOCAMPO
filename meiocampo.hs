@@ -1,3 +1,5 @@
+module MeioCampo where
+
 type Nome = String
 type Codigo = Int
 type Altura = Float
